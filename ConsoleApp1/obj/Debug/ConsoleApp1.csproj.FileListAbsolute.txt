@@ -1,0 +1,16 @@
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\csfml-audio-2.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\csfml-graphics-2.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\csfml-system-2.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\csfml-window-2.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\libsndfile-1.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\openal32.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\OpenTK.dll
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\KaPi\Desktop\Snake\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
